@@ -1,17 +1,17 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "Test-tema-win",
+    "name": "github-leon-scannor",
+    "description": "clasic theme",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
+    "author": "your name (https://github.com/scannor/themeClasic)",
     "homepage": "<project web page url or this github repo url if no website available>",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "clasic"
     ],
     "theme": {
         "file": "my-theme.less",
